@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="set_forward:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/set_forward_jar</output-path>
+    <root id="root">
+      <element id="archive" name="set_forward.jar">
+        <element id="module-output" name="set_forward" />
+      </element>
+    </root>
+  </artifact>
+</component>
